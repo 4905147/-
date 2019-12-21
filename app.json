@@ -1,0 +1,36 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/sexual/sexual",
+    "pages/chooseboytype/chooseboytype",
+    "pages/choosegirltype/choosegirltype",
+    "pages/tuwei/tuwei",
+    "pages/bazong/bazong",
+    "pages/wenrou/wenrou",
+    "pages/xuezhang/xuezhang",
+    "pages/yangguang/yangguang",
+    "pages/zhav/zhav"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#FFCCCC",
+    "navigationBarTitleText": "恋爱修炼手册",
+    "navigationBarTextStyle": "black"
+  },
+  "plugins": {
+    "chatbot": {
+      "version": "1.1.10",
+      "provider": "wx8c631f7e9f2465e1"
+    },
+    "WechatSI": {
+      "version": "0.3.3",
+      "provider": "wx069ba97219f66d99"
+    }
+  },
+  "requiredBackgroundModes": [
+    "audio"
+  ],
+  "sitemapLocation": "sitemap.json",
+  "style": "v2"
+}

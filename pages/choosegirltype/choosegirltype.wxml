@@ -1,0 +1,4 @@
+
+<button class="zhanv" bindtap="zhaNv">可爱学妹</button>
+<button class="tuwei" bindtap="tuWei" >土味女友</button>
+<button class="wenrou" bindtap="wenRou">温柔知性</button>

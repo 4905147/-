@@ -1,0 +1,3 @@
+
+<button class="bf" bindtap="goToBfTypePgae">bf</button>
+<button class="gf" bindtap="goToGfTypePgae">gf</button>

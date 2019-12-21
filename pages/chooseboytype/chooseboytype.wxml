@@ -1,0 +1,3 @@
+<button class="bazong" bindtap="baZong">霸道总裁</button>
+<button class="yangguang" bindtap="yangGuang">阳光大男孩</button>
+<button class="wenrou" bindtap="wenRou">温柔学长</button>
